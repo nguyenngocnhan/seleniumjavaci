@@ -1,0 +1,358 @@
+[INFO ] 2020-08-19 15:31:27.388 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-19 15:31:43.844 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-19 15:31:51.743 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-19 15:32:05.065 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-19 15:32:06.585 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-19 15:32:11.190 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-20 12:03:20.034 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-20 12:03:37.666 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-20 12:03:46.059 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-20 12:04:00.327 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-20 12:04:01.845 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-20 12:04:19.812 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-21 14:28:40.797 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-21 14:28:52.827 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-21 14:29:06.422 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-21 14:29:21.218 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-21 14:29:22.736 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-21 14:29:30.532 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-21 14:29:37.578 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-21 14:42:58.520 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-21 14:43:07.319 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-21 14:43:17.042 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-21 14:43:26.569 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-21 14:43:26.772 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-21 14:43:28.278 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-21 14:43:37.650 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-21 14:43:42.130 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-21 14:43:51.983 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-21 14:43:52.233 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-21 14:43:53.736 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-21 14:44:01.332 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-21 14:44:03.138 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-21 14:58:42.590 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-21 14:58:53.649 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-21 14:59:03.523 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-21 14:59:16.205 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-21 14:59:16.465 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-21 14:59:29.532 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-21 14:59:32.533 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-21 14:59:41.954 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-21 14:59:42.089 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-21 14:59:51.208 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-21 14:59:52.851 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-24 15:27:37.622 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-24 15:27:57.149 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-24 15:28:13.678 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-24 15:28:33.856 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-24 15:28:34.388 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-24 15:28:35.914 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-24 15:28:51.301 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-24 15:28:56.840 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-24 15:29:10.477 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-24 15:29:10.866 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-24 15:29:12.378 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-24 15:29:26.810 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-24 15:29:29.675 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-24 15:43:23.935 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-24 15:43:36.826 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-24 15:43:47.941 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-24 15:44:02.405 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-24 15:44:24.087 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-24 15:44:56.153 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-24 15:44:57.221 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-24 15:44:58.740 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-24 15:45:24.735 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-24 15:45:38.334 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-24 15:45:52.640 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-24 15:45:52.919 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-24 15:45:54.434 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-24 15:46:13.104 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-24 15:46:22.062 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-24 15:46:33.799 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-24 15:46:34.805 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-24 15:46:45.646 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-24 15:46:55.274 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-24 15:46:55.927 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-24 15:47:01.869 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-24 15:47:03.809 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-27 15:13:27.454 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-27 15:13:33.376 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-27 15:13:44.236 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-27 15:14:30.438 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-27 15:14:44.405 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-27 15:15:00.986 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-27 15:15:17.230 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-27 15:15:18.253 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-27 15:15:19.766 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-27 15:15:35.673 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-27 15:15:42.623 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-27 15:15:53.637 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-27 15:15:54.064 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-27 15:15:55.580 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-27 15:16:12.445 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-27 15:16:16.304 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-27 15:37:33.186 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-27 15:37:43.868 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-27 15:37:56.274 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-27 15:38:06.727 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-27 15:38:07.043 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-27 15:38:08.558 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-27 15:38:21.670 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-27 15:38:26.332 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-27 15:38:35.049 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-27 15:38:35.208 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-27 15:38:36.718 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-27 15:38:46.663 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-27 15:38:49.005 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-27 15:49:53.126 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-27 15:50:04.618 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-27 15:50:27.895 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-27 15:51:25.889 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-27 15:51:29.454 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-27 15:51:33.295 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-27 15:51:37.017 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-27 15:51:37.096 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-27 15:51:38.611 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-27 15:51:43.195 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-27 15:51:45.117 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-27 15:51:49.943 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-27 15:51:50.015 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-27 15:51:51.523 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-27 15:51:56.318 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-27 15:51:57.148 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-28 11:11:53.029 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-28 11:12:03.578 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-28 11:12:12.192 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 11:12:17.245 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 11:12:17.353 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 11:12:18.855 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 11:12:29.963 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 11:12:32.560 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 11:12:38.180 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 11:12:38.768 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 11:12:40.274 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 11:12:52.538 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 11:12:53.888 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-28 14:31:23.394 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-28 14:31:30.271 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-28 14:31:36.199 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:31:46.613 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 14:31:46.780 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:31:48.292 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 14:31:55.312 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 14:31:58.011 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:32:03.377 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 14:32:03.476 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:32:04.989 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 14:32:12.917 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 14:32:14.381 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-28 14:41:01.471 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-28 14:41:04.464 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-28 14:41:08.403 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-28 14:41:10.852 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-28 14:41:14.970 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:41:18.273 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 14:41:18.340 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:41:19.842 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 14:41:23.704 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 14:41:24.917 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:41:27.446 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 14:41:27.499 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:41:29.017 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 14:41:35.620 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 14:41:37.541 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:41:40.525 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-28 14:41:40.754 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:41:46.544 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:41:51.100 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-28 14:41:51.479 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:41:55.083 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-28 14:41:56.062 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-28 14:49:30.368 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-28 14:49:34.286 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-28 14:49:38.458 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-28 14:49:42.333 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-28 14:49:47.134 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:49:52.584 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 14:49:52.665 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:49:54.179 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 14:49:59.105 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 14:50:01.388 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:50:05.017 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-28 14:50:05.069 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:50:06.572 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-28 14:50:11.855 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-28 14:50:15.333 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:50:18.670 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-28 14:50:18.961 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:50:25.635 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-28 14:50:28.736 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-28 14:50:28.917 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-28 14:50:32.253 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-28 14:50:33.234 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-29 08:21:18.169 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-29 08:21:22.757 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-29 08:21:27.796 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-29 08:21:33.249 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-29 08:21:38.281 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 08:21:42.951 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-29 08:21:43.036 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 08:21:44.544 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-29 08:21:49.831 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-29 08:21:51.698 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 08:21:54.975 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-29 08:21:55.041 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 08:21:56.546 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-29 08:22:00.498 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-29 08:22:02.270 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 08:22:05.501 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-29 08:22:05.719 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 08:22:09.218 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 08:22:11.695 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-29 08:22:11.866 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 08:22:14.873 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-29 08:22:15.869 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-29 15:20:51.096 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-29 15:20:58.291 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-29 15:21:05.343 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-29 15:21:15.166 [main] log4j2Demo - Navigation to ShopOnline!
+[INFO ] 2020-08-29 15:21:28.417 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 15:21:59.404 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-29 15:21:59.624 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 15:22:01.134 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-29 15:22:24.637 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-29 15:22:32.388 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 15:22:46.418 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-29 15:22:46.846 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 15:22:48.353 [main] log4j2Demo - Wait to capture screenshot...!
+[INFO ] 2020-08-29 15:23:10.569 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-29 15:23:19.943 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 15:23:31.618 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-29 15:23:31.790 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 15:23:42.946 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-29 15:23:47.161 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-29 15:23:57.562 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-29 15:23:57.710 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-29 15:24:08.381 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-29 15:26:17.199 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-29 15:26:19.138 [main] log4j2Demo - quit driver!
+[INFO ] 2020-08-30 15:47:55.592 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-30 15:48:02.861 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-08-30 15:48:06.560 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:48:09.871 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 15:48:09.949 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 15:48:15.091 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 15:48:16.524 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:48:19.137 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 15:48:19.190 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 15:48:23.305 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 15:48:24.707 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:48:26.622 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 15:48:26.796 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 15:48:49.687 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:48:51.669 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 15:48:51.724 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-08-30 15:49:40.839 [main] log4j2Demo - Test executed completed!!!!
+[INFO ] 2020-08-30 15:57:15.274 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-30 15:57:21.714 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-08-30 15:57:25.887 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:57:30.359 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 15:57:30.450 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 15:57:34.945 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 15:57:36.158 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:57:38.665 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 15:57:38.735 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 15:57:43.259 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 15:57:44.985 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:57:46.956 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 15:57:47.071 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 15:58:09.903 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 15:58:11.936 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 15:58:12.077 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-08-30 15:59:01.433 [main] log4j2Demo - Test executed completed!!!!
+[INFO ] 2020-08-30 16:09:13.816 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-30 16:09:19.740 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-08-30 16:09:23.747 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:09:27.476 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 16:09:27.617 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:09:32.216 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 16:09:33.752 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:09:36.622 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 16:09:36.687 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:09:41.534 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 16:09:43.037 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:09:45.241 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 16:09:45.433 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:10:08.550 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:10:11.288 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 16:10:11.437 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-08-30 16:10:58.879 [main] log4j2Demo - Test executed completed!!!!
+[INFO ] 2020-08-30 16:15:47.696 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-30 16:15:54.124 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-08-30 16:16:00.932 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:16:07.411 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 16:16:07.482 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:16:12.075 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 16:16:15.390 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:16:17.896 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 16:16:17.958 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:16:22.038 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 16:16:23.345 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:16:25.444 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 16:16:25.502 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:16:48.763 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:16:51.460 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 16:16:51.686 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-08-30 16:17:37.950 [main] log4j2Demo - Test executed completed!!!!
+[INFO ] 2020-08-30 16:20:59.383 [main] log4j2Demo - Browser started!
+[INFO ] 2020-08-30 16:21:05.340 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-08-30 16:21:09.700 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:21:14.130 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 16:21:14.237 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:21:24.032 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 16:21:27.291 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:21:30.023 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-08-30 16:21:30.110 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:21:34.520 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-08-30 16:21:37.089 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:21:39.277 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 16:21:39.455 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-08-30 16:22:09.839 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-08-30 16:22:20.993 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-08-30 16:22:21.534 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-08-30 16:23:14.562 [main] log4j2Demo - Test executed completed!!!!
+[INFO ] 2020-09-01 14:50:59.126 [main] log4j2Demo - Browser started!
+[INFO ] 2020-09-01 14:51:15.461 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-09-01 14:51:28.325 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-01 14:51:43.429 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-09-01 14:51:43.839 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-09-01 14:51:55.726 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-09-01 14:52:04.219 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-01 14:52:12.743 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-09-01 14:52:12.853 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-09-01 14:52:21.610 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-09-01 14:52:27.969 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-01 14:52:33.351 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-09-01 14:52:33.715 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-09-01 14:53:02.213 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-01 14:53:08.397 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-09-01 14:53:08.777 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-09-01 14:55:03.541 [main] log4j2Demo - Test executed completed!!!!
+[INFO ] 2020-09-05 15:09:40.125 [main] log4j2Demo - Browser started!
+[INFO ] 2020-09-05 15:09:48.818 [main] log4j2Demo - Navigater to http://localhost/shoponline/
+[INFO ] 2020-09-05 15:09:56.771 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-05 15:10:05.001 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-09-05 15:10:05.125 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-09-05 15:10:12.733 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-09-05 15:10:17.560 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-05 15:10:22.973 [main] log4j2Demo - Perform login form!
+[INFO ] 2020-09-05 15:10:23.049 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-09-05 15:10:28.911 [main] log4j2Demo - Click Logout!
+[INFO ] 2020-09-05 15:10:31.525 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-05 15:10:34.842 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-09-05 15:10:34.921 [main] log4j2Demo - Verify Account!
+[INFO ] 2020-09-05 15:10:59.727 [main] log4j2Demo - Click to My account!
+[INFO ] 2020-09-05 15:11:04.031 [main] log4j2Demo - Perform register form!
+[INFO ] 2020-09-05 15:11:04.319 [main] log4j2Demo - Verify Account!
+[DEBUG] 2020-09-05 15:12:12.252 [main] log4j2Demo - Test executed completed!!!!
