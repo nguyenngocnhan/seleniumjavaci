@@ -31,7 +31,7 @@ import com.qa.utilities.excelDataProvider;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class testAddToCardTestNG extends testBase {
+public class testAddToCartTestNG extends testBase {
 	
 	static excelDataProvider proData = new excelDataProvider();
 	static String excelPath = projectPath + "/src/test/excel/data.xlsx";
